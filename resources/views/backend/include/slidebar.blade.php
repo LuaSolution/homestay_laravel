@@ -4,7 +4,7 @@
              <li class="nav-header">
                  <div class="dropdown profile-element">
                      <span>
-                         <!--  <img alt="image" src="{!! URL::asset('public/cms') !!}/img/logo.png" /> -->
+                         <!--  <img alt="image" src="{!! URL::asset('cms') !!}/img/logo.png" /> -->
                          <img class="img-responsive" alt="image"
                              src="{!! URL::asset('public') !!}/img/LOGO-HOMESTAY.png" />
 

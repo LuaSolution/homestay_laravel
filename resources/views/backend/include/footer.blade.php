@@ -8,104 +8,104 @@
     </div>
 
     <!-- Mainly scripts -->
-    <script src="{!! URL::asset('public/cms') !!}/js/jquery-2.1.1.js"></script>
-    <script src="{!! URL::asset('public/cms') !!}/js/bootstrap.min.js"></script>
-    <script src="{!! URL::asset('public/cms') !!}/js/plugins/metisMenu/jquery.metisMenu.js"></script>
-    <script src="{!! URL::asset('public/cms') !!}/js/plugins/slimscroll/jquery.slimscroll.min.js"></script>
+    <script src="{!! URL::asset('cms') !!}/js/jquery-2.1.1.js"></script>
+    <script src="{!! URL::asset('cms') !!}/js/bootstrap.min.js"></script>
+    <script src="{!! URL::asset('cms') !!}/js/plugins/metisMenu/jquery.metisMenu.js"></script>
+    <script src="{!! URL::asset('cms') !!}/js/plugins/slimscroll/jquery.slimscroll.min.js"></script>
 
     <!-- Flot -->
-    <script src="{!! URL::asset('public/cms') !!}/js/plugins/flot/jquery.flot.js"></script>
-    <script src="{!! URL::asset('public/cms') !!}/js/plugins/flot/jquery.flot.tooltip.min.js"></script>
-    <script src="{!! URL::asset('public/cms') !!}/js/plugins/flot/jquery.flot.spline.js"></script>
-    <script src="{!! URL::asset('public/cms') !!}/js/plugins/flot/jquery.flot.resize.js"></script>
-    <script src="{!! URL::asset('public/cms') !!}/js/plugins/flot/jquery.flot.pie.js"></script>
-    <script src="{!! URL::asset('public/cms') !!}/js/plugins/flot/jquery.flot.symbol.js"></script>
-    <script src="{!! URL::asset('public/cms') !!}/js/plugins/flot/jquery.flot.time.js"></script>
+    <script src="{!! URL::asset('cms') !!}/js/plugins/flot/jquery.flot.js"></script>
+    <script src="{!! URL::asset('cms') !!}/js/plugins/flot/jquery.flot.tooltip.min.js"></script>
+    <script src="{!! URL::asset('cms') !!}/js/plugins/flot/jquery.flot.spline.js"></script>
+    <script src="{!! URL::asset('cms') !!}/js/plugins/flot/jquery.flot.resize.js"></script>
+    <script src="{!! URL::asset('cms') !!}/js/plugins/flot/jquery.flot.pie.js"></script>
+    <script src="{!! URL::asset('cms') !!}/js/plugins/flot/jquery.flot.symbol.js"></script>
+    <script src="{!! URL::asset('cms') !!}/js/plugins/flot/jquery.flot.time.js"></script>
 
     <!-- Peity -->
-    <script src="{!! URL::asset('public/cms') !!}/js/plugins/peity/jquery.peity.min.js"></script>
-    <script src="{!! URL::asset('public/cms') !!}/js/demo/peity-demo.js"></script>
+    <script src="{!! URL::asset('cms') !!}/js/plugins/peity/jquery.peity.min.js"></script>
+    <script src="{!! URL::asset('cms') !!}/js/demo/peity-demo.js"></script>
 
     <!-- Custom and plugin javascript -->
-    <script src="{!! URL::asset('public/cms') !!}/js/inspinia.js"></script>
-    <script src="{!! URL::asset('public/cms') !!}/js/plugins/pace/pace.min.js"></script>
+    <script src="{!! URL::asset('cms') !!}/js/inspinia.js"></script>
+    <script src="{!! URL::asset('cms') !!}/js/plugins/pace/pace.min.js"></script>
 
     <!-- jQuery UI -->
-    <script src="{!! URL::asset('public/cms') !!}/js/plugins/jquery-ui/jquery-ui.min.js"></script>
+    <script src="{!! URL::asset('cms') !!}/js/plugins/jquery-ui/jquery-ui.min.js"></script>
 
     <!-- Jvectormap -->
-    <script src="{!! URL::asset('public/cms') !!}/js/plugins/jvectormap/jquery-jvectormap-2.0.2.min.js"></script>
-    <script src="{!! URL::asset('public/cms') !!}/js/plugins/jvectormap/jquery-jvectormap-world-mill-en.js"></script>
+    <script src="{!! URL::asset('cms') !!}/js/plugins/jvectormap/jquery-jvectormap-2.0.2.min.js"></script>
+    <script src="{!! URL::asset('cms') !!}/js/plugins/jvectormap/jquery-jvectormap-world-mill-en.js"></script>
 
     <!-- EayPIE -->
-    <script src="{!! URL::asset('public/cms') !!}/js/plugins/easypiechart/jquery.easypiechart.js"></script>
+    <script src="{!! URL::asset('cms') !!}/js/plugins/easypiechart/jquery.easypiechart.js"></script>
 
     <!-- Sparkline -->
-    <script src="{!! URL::asset('public/cms') !!}/js/plugins/sparkline/jquery.sparkline.min.js"></script>
+    <script src="{!! URL::asset('cms') !!}/js/plugins/sparkline/jquery.sparkline.min.js"></script>
 
     <!-- Sparkline demo data  -->
-    <script src="{!! URL::asset('public/cms') !!}/js/demo/sparkline-demo.js"></script>
+    <script src="{!! URL::asset('cms') !!}/js/demo/sparkline-demo.js"></script>
 
      <!-- iCheck -->
-    <script src="{!! URL::asset('public/cms') !!}/js/plugins/iCheck/icheck.min.js"></script>
+    <script src="{!! URL::asset('cms') !!}/js/plugins/iCheck/icheck.min.js"></script>
 
     <!-- Peity -->
-    <script src="{!! URL::asset('public/cms') !!}/js/demo/peity-demo.js"></script>
+    <script src="{!! URL::asset('cms') !!}/js/demo/peity-demo.js"></script>
 
 
     <!-- Chosen -->
-   <script src="{!! URL::asset('public/cms') !!}/js/plugins/chosen/chosen.jquery.js"></script>
+   <script src="{!! URL::asset('cms') !!}/js/plugins/chosen/chosen.jquery.js"></script>
 
   <!-- JSKnob -->
-  <script src="{!! URL::asset('public/cms') !!}/js/plugins/jsKnob/jquery.knob.js"></script>
+  <script src="{!! URL::asset('cms') !!}/js/plugins/jsKnob/jquery.knob.js"></script>
 
   <!-- Input Mask-->
-   <script src="{!! URL::asset('public/cms') !!}/js/plugins/jasny/jasny-bootstrap.min.js"></script>
+   <script src="{!! URL::asset('cms') !!}/js/plugins/jasny/jasny-bootstrap.min.js"></script>
 
   <!-- Data picker -->
-  <script src="{!! URL::asset('public/cms') !!}/js/plugins/datapicker/bootstrap-datepicker.js"></script>
+  <script src="{!! URL::asset('cms') !!}/js/plugins/datapicker/bootstrap-datepicker.js"></script>
 
   <!-- NouSlider -->
-  <script src="{!! URL::asset('public/cms') !!}/js/plugins/nouslider/jquery.nouislider.min.js"></script>
+  <script src="{!! URL::asset('cms') !!}/js/plugins/nouslider/jquery.nouislider.min.js"></script>
 
   <!-- Switchery -->
-  <script src="{!! URL::asset('public/cms') !!}/js/plugins/switchery/switchery.js"></script>
+  <script src="{!! URL::asset('cms') !!}/js/plugins/switchery/switchery.js"></script>
 
    <!-- IonRangeSlider -->
-   <script src="{!! URL::asset('public/cms') !!}/js/plugins/ionRangeSlider/ion.rangeSlider.min.js"></script>
+   <script src="{!! URL::asset('cms') !!}/js/plugins/ionRangeSlider/ion.rangeSlider.min.js"></script>
 
    <!-- iCheck -->
-   <script src="{!! URL::asset('public/cms') !!}/js/plugins/iCheck/icheck.min.js"></script>
+   <script src="{!! URL::asset('cms') !!}/js/plugins/iCheck/icheck.min.js"></script>
 
    <!-- MENU -->
-   <script src="{!! URL::asset('public/cms') !!}/js/plugins/metisMenu/jquery.metisMenu.js"></script>
+   <script src="{!! URL::asset('cms') !!}/js/plugins/metisMenu/jquery.metisMenu.js"></script>
 
    <!-- Color picker -->
-   <script src="{!! URL::asset('public/cms') !!}/js/plugins/colorpicker/bootstrap-colorpicker.min.js"></script>
+   <script src="{!! URL::asset('cms') !!}/js/plugins/colorpicker/bootstrap-colorpicker.min.js"></script>
 
    <!-- Clock picker -->
-   <script src="{!! URL::asset('public/cms') !!}/js/plugins/clockpicker/clockpicker.js"></script>
+   <script src="{!! URL::asset('cms') !!}/js/plugins/clockpicker/clockpicker.js"></script>
 
    <!-- Image cropper -->
-   <script src="{!! URL::asset('public/cms') !!}/js/plugins/cropper/cropper.min.js"></script>
+   <script src="{!! URL::asset('cms') !!}/js/plugins/cropper/cropper.min.js"></script>
 
    <!-- Date range use moment.js same as full calendar plugin -->
-   <script src="{!! URL::asset('public/cms') !!}/js/plugins/fullcalendar/moment.min.js"></script>
+   <script src="{!! URL::asset('cms') !!}/js/plugins/fullcalendar/moment.min.js"></script>
 
    <!-- Date range picker -->
-   <script src="{!! URL::asset('public/cms') !!}/js/plugins/daterangepicker/daterangepicker.js"></script>
+   <script src="{!! URL::asset('cms') !!}/js/plugins/daterangepicker/daterangepicker.js"></script>
 
    <!-- Select2 -->
-   <script src="{!! URL::asset('public/cms') !!}/js/plugins/select2/select2.full.min.js"></script>
+   <script src="{!! URL::asset('cms') !!}/js/plugins/select2/select2.full.min.js"></script>
 
    <!-- TouchSpin -->
-   <script src="{!! URL::asset('public/cms') !!}/js/plugins/touchspin/jquery.bootstrap-touchspin.min.js"></script>
+   <script src="{!! URL::asset('cms') !!}/js/plugins/touchspin/jquery.bootstrap-touchspin.min.js"></script>
 
    <!-- Tags Input -->
-   <script src="{!! URL::asset('public/cms') !!}/js/plugins/bootstrap-tagsinput/bootstrap-tagsinput.js"></script>
+   <script src="{!! URL::asset('cms') !!}/js/plugins/bootstrap-tagsinput/bootstrap-tagsinput.js"></script>
 
    <!-- Dual Listbox -->
-   <script src="{!! URL::asset('public/cms') !!}/js/plugins/dualListbox/jquery.bootstrap-duallistbox.js"></script>
+   <script src="{!! URL::asset('cms') !!}/js/plugins/dualListbox/jquery.bootstrap-duallistbox.js"></script>
    <script src="{!! URL::asset('public/js/custom.js') !!}"> </script>
 
    @toastr_js

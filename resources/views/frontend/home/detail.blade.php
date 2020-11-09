@@ -5,19 +5,19 @@
 <head>
 <link rel="shortcut icon" href="https://q-ec.bstatic.com/static/img/b25logo/favicon/ebc77706da3aae4aee7b05dadf182390f0d26d11.ico" />
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <script src="{!! URL::asset('public/base2/js')!!}" type="text/javascript" async=""></script>
+    <script src="{!! URL::asset('base2/js')!!}" type="text/javascript" async=""></script>
     <link rel="stylesheet" onload="window.mainCssWasLoaded=1"
-        href="{!! URL::asset('public/base2/3cf072e3f2641471fc0346606a6bda6975417f46.css')!!}" data-main-css="1"
+        href="{!! URL::asset('base2/3cf072e3f2641471fc0346606a6bda6975417f46.css')!!}" data-main-css="1"
         onerror="throw new Error(&#39;CSS file has not been loaded: &#39; + this.src);">
-    <link rel="stylesheet" href="{!! URL::asset('public/base2/2e80ab89c63c067516993ee865069074c20c726f.css')!!}">
-    <link rel="stylesheet" href="{!! URL::asset('public/base2/bc40f0e8faf7262bf0f89a822c759f777e0356aa.css')!!}">
+    <link rel="stylesheet" href="{!! URL::asset('base2/2e80ab89c63c067516993ee865069074c20c726f.css')!!}">
+    <link rel="stylesheet" href="{!! URL::asset('base2/bc40f0e8faf7262bf0f89a822c759f777e0356aa.css')!!}">
     <link rel="stylesheet" type="text/css"
-        href="{!! URL::asset('public/base2/1ad342de9396ecfc7324809182230d68c836cf44.css')!!}">
+        href="{!! URL::asset('base2/1ad342de9396ecfc7324809182230d68c836cf44.css')!!}">
     <link rel="stylesheet" type="text/css"
-        href="{!! URL::asset('public/base2/d0d164d103031008b83e0c2ef58795d29e146b54.css')!!}" media="screen">
+        href="{!! URL::asset('base2/d0d164d103031008b83e0c2ef58795d29e146b54.css')!!}" media="screen">
     <link rel="stylesheet" type="text/css"
-        href="{!! URL::asset('public/base2/fbeb4ce8e27eaa30b204dfdb1457007576e9e843.css')!!}" media="screen">
-    <link rel="stylesheet" href="{!! URL::asset('public/base2/45c1bf85b29ce0ce00f15bfd406e97fd492d1d84.css')!!}">
+        href="{!! URL::asset('base2/fbeb4ce8e27eaa30b204dfdb1457007576e9e843.css')!!}" media="screen">
+    <link rel="stylesheet" href="{!! URL::asset('base2/45c1bf85b29ce0ce00f15bfd406e97fd492d1d84.css')!!}">
     @toastr_css
     <style>
         #basiclayout {
